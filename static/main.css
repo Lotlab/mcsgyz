@@ -1,0 +1,114 @@
+/** 总页面样式 **/
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+	color: white;
+	background-color: #222;
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+	height: 100%;
+	margin: 0 auto -55px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+	height: 55px;
+}
+a:link,
+a:visited,
+a:active {
+	text-decoration:none;
+	color: white;
+}
+a:hover {
+	text-decoration:none;
+	color: gray;
+}
+/** Banner区样式 **/
+
+.banner {
+	min-height: 300px;
+	background: transparent url("http://7xp78n.com1.z0.glb.clouddn.com/mc-banner.jpg") no-repeat scroll center bottom / 1600px auto;
+}
+.nav-menu {
+	height: 16.67%;
+}
+.nav-menu li:hover {
+	background-color: #333;
+}
+.nav-menu li {
+	display: inline-block;
+	width: 15%;
+	min-width: 72px;
+	text-align: center;
+}
+.nav-menu li a{
+	display: block;
+	padding: 15px 20px;
+	text-decoration:none;
+	color: white;
+}
+.title-cover {
+	height: 83.33%;
+}
+.site-title {
+	font-size: 60px;
+	padding: 90px 0px;
+	text-align: center;
+}
+
+/** Footer区样式 **/
+.footer {
+	background-color: #333;
+}
+.footer-warp {
+	padding: 15px 30px;
+}
+
+/** 主文章区样式 **/
+.container {
+	max-width: 1280px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.article {
+	max-width: 810px;
+	min-width: 480px;
+	margin-left: auto;
+	margin-right: auto;	
+	padding: 30px;
+}
+  /* 以下进度条样式 */ 
+.process-bar,
+.process-bar-2
+ {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;	
+    border: 1px solid #999;
+}
+.process-bar-2 {
+	width: 80%;
+}
+.table-text {
+	width: 20%;
+}
+.process-bar-inner {
+	display: block; 
+	position: relative;
+	background:#999;
+	height: 20px;
+	line-height: 20px;
+}
+
+
+.table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;	
+}
+
+ /* 其他常用样式 */
+ 
