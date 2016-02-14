@@ -127,25 +127,75 @@ a:hover {
 	}
 	.nav-menu li {
 		width: 15%;
-		min-width: 60px;
+		min-width: 65px;
 	}
 	.nav-menu li a{
-		display: block;
 		padding: 15px 5px;
 	}
 	.article {
-		min-width: 340px;
-		padding: 10px;
+		min-width: 0px;
+		padding: 15px;
 	}
 	.footer-warp {
-		padding: 17px 15px;
+		padding: 15px 15px;
 		font-size: 90%;
 	}
 	.process-bar-2 {
 		width: 100%;
 	}
 	.table-text {
-		width: 26%;
+		width: 20%;
+	}	
+	.wrapper {
+		margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height */
+	}
+	.footer, .push {
+		height: 50px;
+	}
+}
+
+@media (max-width: 480px){
+	h2 {
+		font-size: 125%;
+	}
+	h3 {
+		font-size: 110%;
+	}
+
+	.banner {
+		min-height: 120px;
 	}
 	
+	.site-title {
+		font-size: 32px;
+		padding: 30px 0px;
+	}
+
+	.nav-menu {
+		padding-left: 12px;
+	}
+	.nav-menu li {
+		width: 15%;
+		min-width: 55px;
+	}
+	.nav-menu li a{
+		padding: 10px 5px;
+	}
+	.article {
+		min-width: 0px;
+		padding: 15px;
+	}
+	.footer-warp {
+		padding: 10px 15px;
+		font-size: 80%;
+	}
+	.table-text {
+		width: 30%;
+	}
+	.wrapper {
+		margin: 0 auto -38px; /* the bottom margin is the negative value of the footer's height */
+	}
+	.footer, .push {
+		height: 38px;
+	}	
 }
