@@ -1,0 +1,67 @@
+/** 总页面样式 **/
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+	color: white;
+	background-color: #222;
+	font-family: "Microsoft YaHei";
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+	height: 100%;
+	margin: 0 auto -30px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+	height: 30px;
+}
+a:link,
+a:visited,
+a:active {
+	text-decoration:none;
+	color: white;
+}
+a:hover {
+	text-decoration:none;
+	color: gray;
+}
+/** Banner区样式 **/
+
+.banner {
+	min-height: 100px;
+	background: transparent url("banner.jpg") no-repeat scroll center bottom / 630px auto;
+}
+.title-cover {
+	height: 83.33%;
+}
+.site-title {
+	font-size: 30px;
+	padding: 20px 0px;
+	text-align: center;
+}
+
+/** Footer区样式 **/
+.footer {
+	background-color: #333;
+}
+.footer-warp {
+	padding: 2px 30px;
+}
+
+/** 主文章区样式 **/
+.container {
+	max-width: 630px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.article {
+	max-width: 600px;
+	min-width: 200px;
+	margin-left: auto;
+	margin-right: auto;	
+	padding: 10px;
+}
+ /* 其他常用样式 */
+ 
