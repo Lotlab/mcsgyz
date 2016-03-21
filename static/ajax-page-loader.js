@@ -39,8 +39,8 @@ var AAPL_warnings = false;
 		
 
 //urls
-var AAPLsiteurl = "http://127.0.0.1/mcsgyz/";
-var AAPLhome = "http://127.0.0.1/mcsgyz/";
+var AAPLsiteurl = "http://mc.lotlab.org/";
+var AAPLhome = "http://mc.lotlab.org/";
 
 //The old code here was RETARDED - Much like the rest of the code... Now I have replaced this with something better ;)
 //PRELOADING YEEEYYYYY!!
