@@ -5,6 +5,8 @@
 		<title>Minecraft韶关一中</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 		<link rel="stylesheet" type="text/css" href="static/main.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="static/unslider-dots.css">
+		<link rel="stylesheet" type="text/css" href="static/unslider.css">
 		<script type="text/javascript" src="./static/jquery.js"></script>
 		<script type="text/javascript" src="./static/ajax-page-loader.js"></script>
 		<script type="text/javascript" src="./static/reload_code.js"></script>
@@ -36,6 +38,42 @@
 				</header>
 				<!-- main frame -->
 				<div class='article' id="article">
+					<div class="ul-slider unslider-nav">
+						<ul>
+							<li>
+								<img class="slider-img" src='./pic/01.png'></img>
+								<div class="slider-desc">图书馆（正面）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/02.png'></img>
+								<div class="slider-desc">行政楼（正面）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/03.png'></img>
+								<div class="slider-desc">行政楼（内部）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/04.png'></img>
+								<div class="slider-desc">教学楼（正面）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/05.png'></img>
+								<div class="slider-desc">教学楼（内部）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/06.png'></img>
+								<div class="slider-desc">图书馆（侧面）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/07.png'></img>
+								<div class="slider-desc">宿舍楼（背面）</div>
+							</li>
+							<li>
+								<img class="slider-img" src='./pic/08.png'></img>
+								<div class="slider-desc">宿舍楼（内部）</div>
+							</li>
+						</ul>
+					</div>
 					<h2 style="text-align: center;">欢迎来到Minecraft韶关一中！</h2>
 					<br>
 					<p>这是一个以复刻韶关一中为目标的建筑服务器。</p>
@@ -56,5 +94,12 @@
 				</div>
 			</div>
 		</div>	
+		
+		<script type="text/javascript" src="./static/unslider-min.js"></script>
+		<script>
+		jQuery(document).ready(function($) {
+			$('.ul-slider').unslider({autoplay: true});
+		});
+		</script>
 	</body>
 </html>
