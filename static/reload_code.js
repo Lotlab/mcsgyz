@@ -1,6 +1,10 @@
 function AAPL_reload_code() {
 //This file is generated from the admin panel - dont edit here! 
 
+					jQuery(document).ready(function($) {
+						$('.ul-slider').unslider({autoplay: true});
+					});
+				
 }
 
 function AAPL_click_code(thiss) {
