@@ -2,7 +2,7 @@
 <update>
 	<ver ver="1.0.3.3">
 		<date>1479043907</date>
-		<desc><![CDATA[<div style="text-align:center;">客户端更新<br><br>客户端更新至1.8.9<br>请到<a href="http://mc.lotlab.org/download.html">下载页面</a>重新下载客户端</div>]]></desc>
+		<desc><![CDATA[<div style="text-align:center;">客户端更新<br><br>客户端更新至1.8.9<br>请到<a href="http://mc.lotlab.org/download.html" target="_blank">下载页面</a>重新下载客户端</div>]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/fakeURL</url>
 	</ver>
 	<ver ver="1.0.3.2">
