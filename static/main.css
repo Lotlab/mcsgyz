@@ -278,7 +278,7 @@ a.table-item {
 .slider-desc {
 	display: block;
 	height: 32px;
-	width: 100%;
+	width: inherit;
 	color: rgba(255,255,255,.5);
 	background: rgba(0,0,0,.2);
 	position: absolute;
