@@ -2,72 +2,72 @@
 <update>
 	<ver ver="1.0.3.3">
 		<date>1479043907</date>
-		<desc><![CDATA[<div style="text-align:center;">客户端更新<br><br>客户端更新至1.8.9<br>请到<a href="http://mc.lotlab.org/download.html" target="_blank">下载页面</a>重新下载客户端</div>]]></desc>
+		<desc><![CDATA[客户端更新至1.8.9, 请到下载页面重新下载客户端]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/fakeURL</url>
 	</ver>
 	<ver ver="1.0.3.2">
 		<date>1478186585</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>专属 Mod 更新：添加了7个方块<br>材质包更新：修改了4个方块</div>]]></desc>
+		<desc><![CDATA[ 添加了7个方块<br>材质包更新：修改了4个方块 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.3.2.xml</url>
 	</ver>
 	<ver ver="1.0.3.1">
 		<date>1471787999</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>添加更好树木Mod<br>替换Optifine为H6版本</div>]]></desc>
+		<desc><![CDATA[ 添加更好树木Mod<br>替换Optifine为H6版本 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.3.1.xml</url>
 	</ver>
 	<ver ver="1.0.3.0">
 		<date>1469432791</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>专属 Mod 更新：添加了4个方块<br>材质包更新：修改了两个方块<br>添加雕刻Mod</div>]]></desc>
+		<desc><![CDATA[ 添加了4个方块<br>材质包更新：修改了两个方块<br>添加雕刻Mod ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.3.0.xml</url>
 	</ver>
 	<ver ver="1.0.2.9">
 		<date>1462034650</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>专属 Mod 更新。添加了14个方块。</div>]]></desc>
+		<desc><![CDATA[ 添加了14个方块。 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.9.xml</url>
 	</ver>
 	<ver ver="1.0.2.8">
 		<date>1458571828</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>专属 Mod 与材质包更新。添加了两个方块。</div>]]></desc>
+		<desc><![CDATA[ 添加了两个方块。 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.8.xml</url>
 	</ver>
 	<ver ver="1.0.2.7">
 		<date>1457858854</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>专属 Mod 与材质包更新。添加了两个方块。</div>]]></desc>
+		<desc><![CDATA[ 添加了两个方块。 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.7.xml</url>
 	</ver>
 	<ver ver="1.0.2.6">
 		<date>1455507220</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>Optifine更新，并去除已经合并入Optifine的Shaders Mod</div>]]></desc>
+		<desc><![CDATA[ Optifine更新，并去除已经合并入Optifine的Shaders Mod ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.6.xml</url>
 	</ver>
 	<ver ver="1.0.2.5">
 		<date>1454198358</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>添加了4个方块，修正部分翻译</div>]]></desc>
+		<desc><![CDATA[ 添加了4个方块，修正部分翻译 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.5.xml</url>
 	</ver>
 	<ver ver="1.0.2.4">
 		<date>1453016707</date>
-		<desc><![CDATA[<div style="text-align:center;">Mod更新<br>添加了高清修复补丁，科修复部分卡顿问题<br><br>提示：<br>由于与光影Mod的兼容性问题，请不要打开AA、AF、Fast Render和Natural Texture功能，否则有可能会显示错误。<br>有可能会出现OpenGL Error，请忽视。</div>]]></desc>
+		<desc><![CDATA[ 添加了高清修复补丁，修复部分卡顿问题]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.4.xml</url>
 	</ver>
 	<ver ver="1.0.2.3">
 		<date>1451552959</date>
-		<desc><![CDATA[<div style="text-align:center;">材质包和Mod更新<br>添加了9个方块，一个材质和一个声音包<br><br>本次更新较大，请耐心等待下载</div>]]></desc>
+		<desc><![CDATA[ 添加了9个方块，一个材质和一个声音包<br><br>本次更新较大，请耐心等待下载 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.3.xml</url>
 	</ver>
 	<ver ver="1.0.2.2">
 		<date>1450703491</date>
-		<desc><![CDATA[<div style="text-align:center;">材质包和Mod更新<br>修复了Issue4和Issue5的内容</div>]]></desc>
+		<desc><![CDATA[ 修复了Issue4和Issue5的内容 ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.2.xml</url>
 	</ver>
 	<ver ver="1.0.2.1">
 		<date>1449225240</date>
-		<desc><![CDATA[<div style="text-align:center;">升级专属Mod</div>]]></desc>
+		<desc><![CDATA[ 升级专属Mod ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.1.xml</url>
 	</ver>
 	<ver ver="1.0.2.0">
 		<date>1449128220</date>
-		<desc><![CDATA[<div style="text-align:center;">添加了材质包和MOD</div>]]></desc>
+		<desc><![CDATA[ 添加了材质包和MOD ]]></desc>
 		<url>http://cdn.lotlab.org/mcsgyz/1.0.2.0.xml</url>
 	</ver>
 </update>
