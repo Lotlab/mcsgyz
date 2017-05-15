@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
+
+	<ver ver="1.2.0.2">
+		<date>1494838812</date>
+		<desc><![CDATA[更新部分材质，更新铁路Mod，优化FPS]]></desc>
+		<url>http://cdn.lotlab.org/mcsgyz/1.2.0.2.xml</url>
+	</ver>
 	<ver ver="1.0.3.3">
 		<date>1479043907</date>
 		<desc><![CDATA[客户端更新至1.8.9, 请到下载页面重新下载客户端]]></desc>
