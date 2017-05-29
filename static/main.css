@@ -33,6 +33,31 @@ a:hover {
 	min-height: 300px;
 	background: transparent url("http://img.lotlab.org/mcsgyz/banner.jpg") no-repeat scroll center bottom / 1600px auto !important;
 }
+
+@media (max-width:3840px) {
+    .banner {
+        background: transparent url("http://img.lotlab.org/mcsgyz/banner.jpg") no-repeat scroll center bottom / 3840px auto !important;
+    }
+}
+
+@media (max-width:2560px) {
+    .banner {
+        background: transparent url("http://img.lotlab.org/mcsgyz/banner.jpg") no-repeat scroll center bottom / 2560px auto !important;
+    }
+}
+
+@media (max-width:1920px) {
+    .banner {
+        background: transparent url("http://img.lotlab.org/mcsgyz/banner.jpg") no-repeat scroll center bottom / 1920px auto !important;
+    }
+}
+
+@media (max-width:768px) {
+    .banner {
+        background: transparent url("http://img.lotlab.org/mcsgyz/banner.jpg") no-repeat scroll center bottom / 1024px auto !important;
+    }
+}
+
 .banner2 {
 	width: 100%;
 	background: #000;
