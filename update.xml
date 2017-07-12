@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
+	<ver ver="1.2.0.4">
+		<date>1499837441</date>
+		<desc><![CDATA[更新SGYZ_mod、BiblioCraft、Optifine、chiselsandbits、以及材质包]]></desc>
+		<url>http://cdn.lotlab.org/mcsgyz/1.2.0.4.xml</url>
+	</ver>
 	<ver ver="1.2.0.3">
 		<date>1496925127</date>
 		<desc><![CDATA[更新客户端显示Mod]]></desc>
