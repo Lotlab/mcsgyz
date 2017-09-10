@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
+	<ver ver="1.2.0.6">
+		<date>1505007509</date>
+		<desc><![CDATA[增加皮肤Mod]]></desc>
+		<url>http://cdn.lotlab.org/mcsgyz/1.2.0.6.xml</url>
+	</ver>
 	<ver ver="1.2.0.5">
 		<date>1502000967</date>
 		<desc><![CDATA[更新材质包]]></desc>
