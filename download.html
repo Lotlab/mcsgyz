@@ -43,18 +43,15 @@
 					<h3 style="text-align: center;">注意事项</h2>
 					<br>
 					<ol class='text-list'>
-						<li>运行之前，请确保安装了Java8，而不是Java6或者Java7。Java8下载地址：<a href="http://java.com" target="_blank">官方下载</a></li>
-						<li>开始游戏之前，先设置好您的用户名</li>
-						<li>进入游戏之后，输入<span style="color: red">/register 你要设置的密码 你要设置的密码</span>来注册用户，之后使用<span style="color: red">/login 你的密码</span>来登录，否则您将无法移动。</li>
-						<li>进入游戏之后，如果你发现不能破坏和放出方块，那说明你没有相应的权限。</li>
-						<li>如果客户端提示更新，请务必更新，否则将无法进入游戏。</li>
+						<li>运行之前，请确保安装了<a href="http://java.com" target="_blank">Java8</a></li>
+						<li>进入游戏之后，使用<span style="color: red">/register</span>和<span style="color: red">/login</span>注册并登录</li>
 					</ol>
 					<br>
 					<br>
 					<h3 style="text-align: center;">下载地址</h2>
 					<br>
 					<p style="text-align: center;">百度云<a href='https://eyun.baidu.com/s/3qYHFjR2' target='_blank'>下载</a></p>
-					<p style="text-align: center; color: gray;">1.8系列版本<a href='http://pan.baidu.com/s/1hqEZdLM' target='_blank'>下载</a></p>
+					<p style="text-align: center;">存档<a href='save.html'>下载</a></p>
 					<p style="text-align: center;">请下载客户端目录下的MinecraftSGYZ_XXXXX.zip文件（XXXXXX为最后更新的时间）。</p>
 					<br>
 					<br>
@@ -127,9 +124,10 @@
 				<div class='footer-warp'>
 					&copy; 2012-2017 <a href='http://lotlab.org' target="_blank">Lotlab</a>, All right reserved.
 				</div>
+                <div id="Analyze"></div>
 			</div>
-		</div>	
-		<script type="text/javascript" src="./static/unslider-min.js"></script>
+		</div>
+		<script type="text/javascript" src="./static/unslider-min.js"></script>	
         <script>
             (function(){
                 var bp = document.createElement('script');
@@ -143,7 +141,10 @@
                 var s = document.getElementsByTagName("script")[0];
                 s.parentNode.insertBefore(bp, s);
             })();
-        </script>
+            $(document).ready(function() {
+                $("#Analyze").html("<script src='https://s13.cnzz.com/z_stat.php?id=1268731847&web_id=1268731847'/>");
+            });
+        </script>    
 	</body>
 </html>
 

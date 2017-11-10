@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-cn">
 	<head>
 		<meta charset="UTF-8">
-		<title>关于 | Minecraft韶关一中</title>
+		<title>存档下载 | Minecraft韶关一中</title>
 		<meta name="keywords" content="Minecraft,Minecraft韶关一中,韶关市第一中学,Mc,我的世界,韶关一中" /＞
 		<meta name="description" content="Minecraft韶关一中是一个以复刻韶关市第一中学为目标的Minecraft服务器。">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,53 +39,39 @@
 			</header>
 			<div class='container'>
 				<!-- main frame -->
-				<div class='article'  id="article">
-					<div style="text-align: center;">
-						<h3>关于这个服务器</h3>
-						<br>
-						<p>这是一个以复刻韶关一中为目标的建筑服务器。</p>
-						<p">这是我们的梦。一个三年来一直没有实现的梦。<p>
-						<br>
-						<br>
-						<br>
-						<h4>首席建筑师</h4>
-						<p>XJJ(sgxjj)</p>
-						<br>
-						<h4>建筑师</h4>
-                        <p>龙之殇伤(hnj)</p>
-						<p>装の扮(Shikieiki)</p>
-						<p>Jim(jiangming1399)</p>
-                        <p>BY(Neil)</p>
-						<br>
-						<h4>建筑设计</h4>
-						<p>XJJ(sgxjj)</p>
-						<p>Jim(jiangming1399)</p>
-						<br>
-						<h4>专属Mod制作</h4>
-						<p>Jim(jiangming1399)</p>
-						<br>
-						<h4>服务端/客户端整合</h4>
-						<p>Jim(jiangming1399)</p>
-						<br>
-						<h4>材质绘制</h4>
-						<p>Jim(jiangming1399)</p>
-						<br>
-						<h4>材质建议</h4>
-						<p>XJJ(sgxjj)</p>
-						<br>
-                        <h4>吃瓜群众</h4>
-						<p>曹公子(CJ)</p>
-						<p>长门型一番舰长门(RC)</p>
-						<br>
-						<br>
-						<h4>特别感谢</h4>
-						<p>韶关一中原设计师</p>
-						<p>韶关市第一中学</p>
-						<br>
-						<p>以及</p>
-						<p>看到这里的<br><b>你</b></p>
-					</div>
+				<div class='article' id="article">
+                    <p>
+                        下载存档即代表同意以下约定：
+                        <ol>
+                            <li>存档不可用于任何商业服务器（包括但不限于设置了付费项目的服务器），不可于营利性目的使用。</li>
+                            <li>使用存档的服务器必须在显著位置注明存档来源。</li>
+                            <li>任何基于此存档的修改都必须提供存档下载页面。</li>
+                            <li>转载时需标明原作者，下载地址必须链接到本页面，不得在链接上添加任何广告短链接服务。</li>
+                        </ol>
+                    </p>
+                    
+                    <p style="text-align: center;">
+                        <input type="checkbox" id="agree" unchecked>我同意以上条款</input>
+                    </p>
+                    <p style="text-align: center;">
+                        <button onclick="download();">下载存档</button>
+                    </p>
+                    <script>
+                        function download(){
+                            if($("#agree").attr("checked"))
+                            {
+                                window.open("https://pan.baidu.com/s/1pKXUOIJ");
+                            }
+                            else
+                            {
+                                alert("你必须同意以上条款才能下载");
+                            }
+                            
+                        }
+                    
+                    </script>
 				</div>
+                
 			</div>
 
 			<div class="push"></div><!--Stick Footer -->
@@ -116,6 +102,6 @@
             $(document).ready(function() {
                 $("#Analyze").html("<script src='https://s13.cnzz.com/z_stat.php?id=1268731847&web_id=1268731847'/>");
             });
-        </script>    
+        </script>       
 	</body>
 </html>
