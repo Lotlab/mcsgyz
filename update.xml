@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
+	<ver ver="1.2.0.9">
+		<date>1534496266</date>
+		<desc><![CDATA[更新材质]]></desc>
+		<url>http://cdn.lotlab.org/mcsgyz/1.2.0.9.xml</url>
+	</ver>
 	<ver ver="1.2.0.8">
 		<date>1506389579</date>
 		<desc><![CDATA[更新材质]]></desc>
